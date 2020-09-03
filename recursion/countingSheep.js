@@ -8,4 +8,4 @@ const countingSheep = (sheep) =>{
    }, 1000);
 }
 
-module.export = countinSheep;
+module.export = countingSheep;
